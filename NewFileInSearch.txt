@@ -1,0 +1,9 @@
+File 2
+<<<<<<< HEAD
+local update
+Updated
+=======
+
+Updated
+Rmote update
+>>>>>>> 5ce3989f5c7c84dd5c3b0c3ce7d1961077702401
